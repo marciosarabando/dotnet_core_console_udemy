@@ -7,7 +7,7 @@ namespace msdev
     {
         static void Main(string[] args)
         {
-            var jogo = new JogoFODA(new Jogador3(), new Jogador1("Marcio"));
+            var jogo = new JogoFODA(new Jogador2(), new Jogador1("Marcio"));
             jogo.IniciarJogo();
         }
     }
