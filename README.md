@@ -1,0 +1,1 @@
+## APP Console criada em .net core 3.1 para fins didáticos do curso Udemy
